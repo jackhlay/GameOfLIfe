@@ -1,2 +1,5 @@
 # GameOfLIfe
-A simple implementation of the game of life in C. Right now it just plays in an array and just refreshes and prints to the the terminal window
+
+This is a simple implementation of Conway's Game of Life In C  
+  
+It does not have any graphical cababilities right now outside of refreshing the array and printing it to the console.  
