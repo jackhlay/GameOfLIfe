@@ -6,7 +6,7 @@ It does not have any graphical cababilities right now outside of refreshing the 
   
 # Example Outpute 
 Starting State:  
-![](exampleImages/startscreen.png)
+![](exampleImages/startScreen.png)
 
 End States (has 2 final states)
 
